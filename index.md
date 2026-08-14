@@ -2,7 +2,7 @@
 
 I am a third-year undergraduate student double-majoring in **Mathematics and Physics** at **Boğaziçi University**, Istanbul.
 
-My primary academic interests lie at the intersection of Mathematics and Physics, with a particular emphasis on the mathematical structures underlying physical theories. During my undergraduate studies, I explored the symplectic geometric foundations of classical mechanics, geometric quantization, and the rigorous mathematical foundations of statistical mechanics through ergodic theory and differential geometry.
+My primary academic interests lie at the intersection of Mathematics and Physics, with a particular emphasis on the mathematical structures underlying physical theories. During my undergraduate studies, I explored the symplectic geometric foundations of classical mechanics, geometric quantization, supersymmetric quantum field theories like N=4 Super Yang-Mills theory, and the rigorous mathematical foundations of statistical mechanics through ergodic theory and differential geometry.
 
 Alongside my theoretical studies, I enjoy incorporating computational explorations into my learning process. Using symbolic computation tools, primarily Mathematica, I write short scripts to visualize physical models and verify mathematical concepts. These exercises serve as a practical way to solidify my understanding of abstract theoretical frameworks.
 
